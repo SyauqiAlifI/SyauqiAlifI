@@ -45,5 +45,10 @@ Here are some ideas to get you started:
         <a href="https://github.com/SyauqiAlifI">
             <img src="https://activity-graph.herokuapp.com/graph?username=SyauqiAlifI&theme=github">
         </a>
-    </p>    
+    </p>
+    <p align="left">
+        <a href="https://github.com/SyauqiAlifI/SyauqiAlifI">
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SyauqiAlifI&layout=compact" alt="">
+        </a>
+    </p>
 </body>
