@@ -15,7 +15,12 @@ Here are some ideas to get you started:
 <head>
     <h1>Hello, Everyone 👋</h1>
     <p align="left">
-        Introducing my name is Syauqi Alif Ibrahim,<br>
+        Introducing my name is <br>
+        <h1 style="text-align: center;">
+            <strong>
+                Syauqi Alif Ibrahim
+            </strong>
+        </h1>
         You can call me Alif.<br>
         <br>
         I'm a Software Engineer but currently i'm still a Student in IDN Boarding School.<br>
@@ -30,15 +35,12 @@ Here are some ideas to get you started:
 <body>
     <p align="left">
         <a href="https://github.com/SyauqiAlifI">
-            <img src="https://github-readme-streak-stats.herokuapp.com?user=SyauqiAlifI&theme=highcontrast&hide_border=true&date_format=M%20j%5B%2C%20Y%5D">
+            <img height="150em" src="https://github-readme-streak-stats.herokuapp.com?user=SyauqiAlifI&theme=highcontrast&hide_border=true&date_format=M%20j%5B%2C%20Y%5D">
         </a>
     </p>
     <p>
         <a href="https://github.com/SyauqiAlifI">
-            <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SyauqiAlifI&show_icons=true&theme=highcontrast">
-            <!--
-            <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SyauqiAlifI&layout=compact&langs_count=8&theme=highcontrast&custom_title=My Programming Language">
-            -->
+            <img height="150em" src="https://github-readme-stats.vercel.app/api?username=SyauqiAlifI&show_icons=true&theme=highcontrast">
         </a>
     </p>
     <p>
@@ -48,7 +50,7 @@ Here are some ideas to get you started:
     </p>
     <p align="left">
         <a href="https://github.com/SyauqiAlifI/SyauqiAlifI">
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SyauqiAlifI&layout=compact" alt="">
+            <img height="110em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SyauqiAlifI&layout=compact&langs_count=8&theme=highcontrast" alt="">
         </a>
     </p>
 </body>
