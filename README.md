@@ -37,7 +37,7 @@ Here are some ideas to get you started:
         </strong>
     </p>
     <br>
-    <ul>
+    <ul align="center">
         <li>linkedin Account: <a href="https://www.linkedin.com/in/syauqi-alif-ibrahim-35440b222/"><strong>Syauqi Alif
                     Ibrahim</strong></a></li>
         <li>My Gmail: <a
