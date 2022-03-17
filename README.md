@@ -37,33 +37,40 @@ Here are some ideas to get you started:
         </strong>
     </p>
     <br>
-    <ul align="center" style="margin: 0; padding: 0; display: flex; width: 100%; justify-content: center;">
-        <li>
-            <strong>Linkedin Account</strong><br>
-            <a href="https://www.linkedin.com/in/syauqi-alif-ibrahim-35440b222/">
-                <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="Linkedin Logo" style="height: 60px;">
-            </a><br>
-            <strong>Syauqi Alif Ibrahim</strong>
-        </li>
-        <br>
-        <li>
-            <strong>My Gmail</strong><br>
-            <a href="https://mail.google.com/mail/u/0/#inbox?compose=CllgCJNvvRLGgxkVXHzdtXcRNPLCrGsDmgpszRbqHNWTTBNQmclXXJFmpWwtBpjPVkgZXpGMmjV">
-                <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" alt="Gmail Logo" style="height: 60px;">
-            </a><br>
-            <strong>syalifi776@gmail.com</strong>
-        </li>
-        <br>
-        <li>
-            <strong>My Instagram</strong><br>
-            <a href="https://www.instagram.com/syauqialif_776/?hl=en">
-                <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png" alt="Instagram Logo" style="height: 60px;">
-            </a><br>
-            <strong>syauqialif_776</strong>
-        </li>
-        <li>Facebook: <a href="https://www.facebook.com/Salifi776sqi/"><strong>Syauqi Alif Ibrahim</strong></a></li>
-        <li>Phone Number: <strong>0859-5938-9079</strong></li>
-    </ul>
+    <p>
+        <div align="center" style="display: flex; justify-content: center;">
+            <div style="margin: auto;">
+                <strong>Linkedin Account</strong><br>
+                <a href="https://www.linkedin.com/in/syauqi-alif-ibrahim-35440b222/">
+                    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="Linkedin Logo" style="height: 60px;">
+                </a><br>
+                <strong>Syauqi Alif Ibrahim</strong><br>
+            </div>
+
+            <div style="margin: auto;">
+                <strong>My Gmail</strong><br>
+                <a href="https://mail.google.com/mail/u/0/#inbox?compose=CllgCJNvvRLGgxkVXHzdtXcRNPLCrGsDmgpszRbqHNWTTBNQmclXXJFmpWwtBpjPVkgZXpGMmjV">
+                    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" alt="Gmail Logo" style="height: 60px;">
+                </a><br>
+                <strong>syalifi776@gmail.com</strong><br>
+            </div>
+
+            <div style="margin: auto;">
+                <strong>My Instagram</strong><br>
+                <a href="https://www.instagram.com/syauqialif_776/?hl=en">
+                    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png" alt="Instagram Logo" style="height: 60px;">
+                </a><br>
+                <strong>syauqialif_776</strong>
+            </div>
+
+            <div style="margin: auto;">
+                <strong>Facebook</strong><br>
+                <a href="https://www.facebook.com/Salifi776sqi/">
+                    <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" alt="Facebook Logo" style="height: 60px;">
+                </a><br>
+                <strong>Syauqi Alif Ibrahim</strong>
+            </div>
+        </div>
     </p>
 </head>
 
