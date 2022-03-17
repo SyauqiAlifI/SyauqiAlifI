@@ -37,13 +37,29 @@ Here are some ideas to get you started:
         </strong>
     </p>
     <br>
-    <ul align="center" style="margin: 0; padding: 0;">
-        <li>linkedin Account: <a href="https://www.linkedin.com/in/syauqi-alif-ibrahim-35440b222/"><strong>Syauqi Alif
-                    Ibrahim</strong></a></li>
-        <li>My Gmail: <a
-                href="https://mail.google.com/mail/u/0/#inbox?compose=CllgCJNvvRLGgxkVXHzdtXcRNPLCrGsDmgpszRbqHNWTTBNQmclXXJFmpWwtBpjPVkgZXpGMmjV"><strong>syalifi776@gmail.com</strong></a>
+    <ul align="center" style="margin: 0; padding: 0; display: flex; width: 100%; justify-content: center;">
+        <li>
+            <strong>Linkedin Account</strong><br>
+            <a href="https://www.linkedin.com/in/syauqi-alif-ibrahim-35440b222/">
+                <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="Linkedin Logo" style="height: 60px;">
+            </a><br>
+            <strong>Syauqi Alif Ibrahim</strong>
         </li>
-        <li>Instagram: <a href="https://www.instagram.com/syauqialif_776/?hl=en"><strong>syauqialif_776</strong></a>
+        <br>
+        <li>
+            <strong>My Gmail</strong><br>
+            <a href="https://mail.google.com/mail/u/0/#inbox?compose=CllgCJNvvRLGgxkVXHzdtXcRNPLCrGsDmgpszRbqHNWTTBNQmclXXJFmpWwtBpjPVkgZXpGMmjV">
+                <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" alt="Gmail Logo" style="height: 60px;">
+            </a><br>
+            <strong>syalifi776@gmail.com</strong>
+        </li>
+        <br>
+        <li>
+            <strong>My Instagram</strong><br>
+            <a href="https://www.instagram.com/syauqialif_776/?hl=en">
+                <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png" alt="Instagram Logo" style="height: 60px;">
+            </a><br>
+            <strong>syauqialif_776</strong>
         </li>
         <li>Facebook: <a href="https://www.facebook.com/Salifi776sqi/"><strong>Syauqi Alif Ibrahim</strong></a></li>
         <li>Phone Number: <strong>0859-5938-9079</strong></li>
