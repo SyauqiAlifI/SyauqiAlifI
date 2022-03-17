@@ -37,14 +37,14 @@ Here are some ideas to get you started:
         </strong>
     </p>
     <br>
-    <div>
+    <div style="display: inline-block;" align="center">
         <strong>Linkedin Account</strong><br>
         <a href="https://www.linkedin.com/in/syauqi-alif-ibrahim-35440b222/">
             <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="Linkedin Logo" style="height: 60px;">
         </a><br>
         <strong>Syauqi Alif Ibrahim</strong><br>
     </div>
-    <div>
+    <div style="display: inline-block;" align="center">
         <strong>My Gmail</strong><br>
         <a
             href="https://mail.google.com/mail/u/0/#inbox?compose=CllgCJNvvRLGgxkVXHzdtXcRNPLCrGsDmgpszRbqHNWTTBNQmclXXJFmpWwtBpjPVkgZXpGMmjV">
@@ -53,7 +53,7 @@ Here are some ideas to get you started:
         </a><br>
         <strong>syalifi776@gmail.com</strong><br>
     </div>
-    <div>
+    <div style="display: inline-block;" align="center">
         <strong>My Instagram</strong><br>
         <a href="https://www.instagram.com/syauqialif_776/?hl=en">
             <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png"
@@ -61,7 +61,7 @@ Here are some ideas to get you started:
         </a><br>
         <strong>syauqialif_776</strong>
     </div>
-    <div>
+    <div style="display: inline-block;" align="center">
         <strong>Facebook</strong><br>
         <a href="https://www.facebook.com/Salifi776sqi/">
             <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg"
