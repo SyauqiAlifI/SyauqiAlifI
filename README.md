@@ -46,7 +46,7 @@ Here are some ideas to get you started:
         <a href="https://mail.google.com/mail/u/0/#inbox?compose=CllgCJNvvRLGgxkVXHzdtXcRNPLCrGsDmgpszRbqHNWTTBNQmclXXJFmpWwtBpjPVkgZXpGMmjV">
             <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" alt="Gmail Logo" style="height: 60px;">
         </a>
-        <a href="https://www.instagram.com/syauqialif_776/?hl=en">
+        <a href="https://www.instagram.com/syauqialifi_776/">
             <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png" alt="Instagram Logo" style="height: 60px;">
         </a>
         <a href="https://www.facebook.com/Salifi776sqi/">
