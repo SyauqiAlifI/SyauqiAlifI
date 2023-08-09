@@ -37,23 +37,6 @@ Here are some ideas to get you started:
         </strong>
     </p>
     <br>
-    <div align="center">
-        <strong>Contact Me</strong><br>
-        <br>
-        <a href="https://www.linkedin.com/in/syauqi-alif-ibrahim-35440b222/">
-            <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="Linkedin Logo" style="height: 60px;">
-        </a>
-        <a href="https://mail.google.com/mail/u/0/#inbox?compose=CllgCJNvvRLGgxkVXHzdtXcRNPLCrGsDmgpszRbqHNWTTBNQmclXXJFmpWwtBpjPVkgZXpGMmjV">
-            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" alt="Gmail Logo" style="height: 60px;">
-        </a>
-        <a href="https://www.instagram.com/syauqialifi_776/">
-            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png" alt="Instagram Logo" style="height: 60px;">
-        </a>
-        <a href="https://www.facebook.com/Salifi776sqi/">
-            <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" alt="Facebook Logo" style="height: 60px;">
-        </a>
-    </div>
-    <br>
     <!-- <strong>Syauqi Alif Ibrahim</strong><br>
     <strong>Linkedin Account</strong><br>
     <strong>My Gmail</strong><br>
