@@ -23,11 +23,11 @@ Here are some ideas to get you started:
                 <hr>
             </strong>
         </h1>
-        <p align="center">
+        <!-- <p align="center">
             <a href="https://github.com/SyauqiAlifI">
                 <img height="500em" src="https://i.ibb.co/17Rdywn/Twibbon-ITFest-1.jpg">
             </a>
-        </p>
+        </p> -->
     </p>
     <p align="center" style="text-align: center; font-weight: bold;">
         <strong>
@@ -78,11 +78,6 @@ Here are some ideas to get you started:
         <a href="https://github.com/SyauqiAlifI">
             <img height="160em"
                 src="https://github-readme-streak-stats.herokuapp.com?user=SyauqiAlifI&theme=highcontrast&hide_border=true&date_format=M%20j%5B%2C%20Y%5D">
-        </a>
-    </p>
-    <p>
-        <a href="https://github.com/SyauqiAlifI">
-            <img src="https://activity-graph.herokuapp.com/graph?username=SyauqiAlifI&theme=github">
         </a>
     </p>
 </body>
