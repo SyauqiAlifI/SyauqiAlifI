@@ -30,8 +30,7 @@ Here are some ideas to get you started:
     <p align="center" style="text-align: center; font-weight: bold;">
         <strong>
             You can call me Alif.<br>
-            I'm a Software Engineer but currently i'm still a Student in IDN Boarding School.<br>
-            If you want to contact me, just click the link belows:<br>
+            I'm a Full-Stack Web Developer but currently i'm still as a College Student<br>
         </strong>
     </p>
     <br>
