@@ -14,13 +14,11 @@ Here are some ideas to get you started:
 -->
 
 <head>
-    <h1 align="center">Hello 👋</h1>
-    <p>
-        Introducing my name is <br>
+    <p align="center" style="text-align: center; font-weight: bold;">
+        Hello 👋, Introducing my name is <br>
         <h1 style="text-align: center;" align="center">
             <strong>
                 Syauqi Alif Ibrahim
-                <hr>
             </strong>
         </h1>
         <!-- <p align="center">
@@ -48,19 +46,4 @@ Here are some ideas to get you started:
 </head>
 
 <body>
-    <p>
-        <a href="https://github.com/SyauqiAlifI">
-            <img height="200em"
-                src="https://github-readme-stats.vercel.app/api?username=SyauqiAlifI&show_icons=true&theme=highcontrast">
-        </a><br>
-        <a href="https://github.com/SyauqiAlifI/SyauqiAlifI">
-            <img height="160em"
-                src="https://github-readme-stats.vercel.app/api/top-langs/?username=SyauqiAlifI&layout=compact&langs_count=8&theme=highcontrast&custom_title=My%20Programming%20Languages"
-                alt="">
-        </a>
-        <a href="https://github.com/SyauqiAlifI">
-            <img height="160em"
-                src="https://github-readme-streak-stats.herokuapp.com?user=SyauqiAlifI&theme=highcontrast&hide_border=true&date_format=M%20j%5B%2C%20Y%5D">
-        </a>
-    </p>
 </body>
